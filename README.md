@@ -4,5 +4,5 @@
 -Multiplication
 -Find Reverse Matrix
 
-All done in C Using 2D Arrays.
+All done in C Using 2D Arrays
 Basic Makefile is also provided.
